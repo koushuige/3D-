@@ -1,0 +1,7 @@
+{
+  "name": "NeuroParticle Gesture Interface",
+  "description": "A 3D particle system controlled by hand gestures. Uses computer vision to interpret 5-finger zooming, index-finger rotation, and 2-finger plane flipping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
